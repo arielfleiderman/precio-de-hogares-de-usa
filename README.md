@@ -1,1 +1,1 @@
-# precio-de-hogares-de-usa
+# precio-de-hogares-de-usa busca predecir el precio de los hogares en usa aplicando modelo de clasificasion fijando un target de precio mayotr a 800 mil dolares preevio analisis de variables e ingenieria de las mismas
